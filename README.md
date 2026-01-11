@@ -30,7 +30,7 @@ O objetivo é resolver isso com uma experiência conversacional e recomendaçõe
 
 ---
 
-#'👥 Público-Alvo
+# 👥 Público-Alvo
 - Pessoas que desejam iniciar o controle financeiro de forma simples.  
 - Usuários iniciantes que não têm familiaridade com planilhas ou sistemas complexos.  
 - Faixa etária ampla: jovens adultos até idosos.
