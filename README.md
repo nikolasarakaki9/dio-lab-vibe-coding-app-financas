@@ -83,8 +83,17 @@ O conteúdo deve ser apresentado em tom educativo, com linguagem clara e acessí
 
 Interações no Lovable
 
+mandei um prompt para categorizar salário como trabalho e não como alimentação como esatav no início 
+
+Coloco um valor x como salário e o app colocaem lazer, deve ser colocado em trabalho, trabalho extra em algo colocar como trabalho, o app está errando na categoria. 
 
 
+resultado do projeto:
+
+https://id-preview--cf4287f6-9f0f-4389-b593-aa9320d98a5e.lovable.app/
+
+
+<img src="./assets/financaspro-resumo.png" alt="Resumo do Mês - FinançasPro" width="300">
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
