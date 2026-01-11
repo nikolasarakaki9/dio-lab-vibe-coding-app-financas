@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
----markdown
+
 
 abaixo segue o PRD criado e alterado com auxílio do Copilot
 
