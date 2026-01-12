@@ -93,7 +93,7 @@ resultado do projeto:
 https://id-preview--cf4287f6-9f0f-4389-b593-aa9320d98a5e.lovable.app/
 
 
-## primt de demonstração 
+## Visual do App de demonstração
 
 ![Resumo FinançasPro](assets/financaspro.png)
 
@@ -135,12 +135,7 @@ O **FinançasPro** é um aplicativo de **gestão financeira pessoal** que ajuda 
 | 08 Jan | Viagem para Sorocaba    | -R$ 1.000,00 |
 | 07 Jan | Hospedagem em São Paulo | -R$ 500,00   |
 
----
 
-## 📷 Visual do App
-![Resumo FinançasPro](assets/financaspro.png)
-
----
 
 ## ✅ Conclusão
 O **FinançasPro** combina:
@@ -151,8 +146,6 @@ O **FinançasPro** combina:
 Ou seja, é um app que une **planejamento + acompanhamento + orientação** para manter as finanças pessoais organizadas.
 
 ---
-
-
 
 
 - Uma breve reflexão sobre o processo do projeto
