@@ -93,24 +93,40 @@ resultado do projeto:
 https://id-preview--cf4287f6-9f0f-4389-b593-aa9320d98a5e.lovable.app/
 
 
+## primt de demonstração 
 
 ![Resumo FinançasPro](assets/financaspro.png)
 
 
+## 🎬 Vídeo de Demonstração
+
+[Assistir vídeo](assets/meu-video.mp4)
 
 
-- Prints ou pequenos vídeos das interações com a IA;  
+
+
+Resumo do App finanças Pro
+
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
 
 
 
 
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+- Uma breve reflexão sobre o processo do projeto
+
+  
+  - O que funcionou bem?
+
+Usar o copilot ajudou muito na criação de um refinado PRD do APP de finanças, assim criando decforma mais sucinta e objetiva possivel para poder usar no Lovable.
+
+  - O que não funcionou como o esperado?
+
+ A questão de poucos créditos no lovable possibilitando apenas três interações, achei decepcionante devido a questão de testagens serem pequenas.
+ 
   - O que aprendeu sobre conversar com IAs?
 
-
+O aprendizado foi que elas servem como ferramnetas auxiliares enormes, porém se você não souber usar um bom prompt não adianta em muita coisa. quanto mais especifico você for melhor ela vai te enteder e consequentemente melhor será o resultado esperado.
 
 ## 💬 Conclusão
 
