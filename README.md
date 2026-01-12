@@ -92,33 +92,11 @@ resultado do projeto:
 
 https://id-preview--cf4287f6-9f0f-4389-b593-aa9320d98a5e.lovable.app/
 
-# 📊 FinançasPro — Resumo Financeiro do Mês
 
-## Resumo do Mês
-- **Total de Gastos:** R$ 2.295,00  
-- **Orçamento Restante:** R$ 2.705,00  
-- **Usado:** 46%
 
----
+![Resumo FinançasPro](assets/financaspro.png)
 
-## 💡 Regra dos 50-30-20
-> Divida sua renda:  
-> - **50%** para necessidades  
-> - **30%** para desejos  
-> - **20%** para poupança e investimentos
 
----
-
-## 🧾 Transações Recentes
-
-| Data       | Descrição                  | Valor        |
-|------------|----------------------------|--------------|
-| 08 Jan     | Viagem para Sorocaba       | -R$ 1.000,00 |
-| 07 Jan     | Hospedagem São Paulo       | -R$ 500,00   |
-
----
-
-📱 *Gerenciado com FinançasPro*
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
