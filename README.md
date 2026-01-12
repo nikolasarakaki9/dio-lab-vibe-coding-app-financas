@@ -103,12 +103,54 @@ https://id-preview--cf4287f6-9f0f-4389-b593-aa9320d98a5e.lovable.app/
 [Assistir vídeo](assets/meu-video.mp4)
 
 
-
-
 Resumo do App finanças Pro
 
+---
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;
+# 📱 FinançasPro — Resumo do App
+
+## 🎯 Função principal
+O **FinançasPro** é um aplicativo de **gestão financeira pessoal** que ajuda a acompanhar gastos, controlar orçamento e aplicar regras simples de organização financeira.
+
+---
+
+## 📊 Resumo do Mês
+- **Total de Gastos:** R$ 2.295,00  
+- **Orçamento Restante:** R$ 2.705,00  
+- **Percentual Usado:** 46%
+
+---
+
+## 💡 Regra dos 50-30-20
+> Divida sua renda:  
+> - **50%** para necessidades  
+> - **30%** para desejos  
+> - **20%** para poupança e investimentos
+
+---
+
+## 🧾 Transações Recentes
+| Data   | Descrição               | Valor        |
+|--------|-------------------------|--------------|
+| 08 Jan | Viagem para Sorocaba    | -R$ 1.000,00 |
+| 07 Jan | Hospedagem em São Paulo | -R$ 500,00   |
+
+---
+
+## 📷 Visual do App
+![Resumo FinançasPro](assets/financaspro.png)
+
+---
+
+## ✅ Conclusão
+O **FinançasPro** combina:
+- **Controle de orçamento** (quanto já foi gasto e quanto resta)  
+- **Educação financeira** (regra 50-30-20)  
+- **Histórico de transações** (detalhes dos últimos gastos)  
+
+Ou seja, é um app que une **planejamento + acompanhamento + orientação** para manter as finanças pessoais organizadas.
+
+---
 
 
 
